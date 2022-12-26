@@ -26,7 +26,7 @@ Technical support resource for Sensus (AMI) Advanced Metering Infrastructure sol
   - **_Technologies used:_** Windows Server, Linux, Database, Applications
 <br><br>
 
-**Applications Engineer** @ [X-Factor Communications](https://xfactorcom.com/) __(March 2014 – September 2015)_ <br>
+**Applications Engineer** @ [X-Factor Communications](https://xfactorcom.com/) __(March 2014 – September 2015)__ <br>
 Partnered with IT professionals and engineers to assist with the integration of digital signage software solutions. Worked with Account Managers to develop business opportunities, analyze customer requirements, perform product demonstrations, and provided insight into complex technical challenges. Established working relationships with technical managers and staff at the customer’s organization, assisted with integration, and maintained solutions. Took ownership of all technical aspects of the accounts. Served as a quality assurance resource to the development team helping to execute test plans and perform ad-hoc testing of new features and product changes. Documented and tracked discovered issues using our bug-tracking system. Worked with the software development team to ensure all reported issues were addressed. Developed product training materials.
 <br><br>
 
