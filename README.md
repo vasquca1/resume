@@ -9,8 +9,10 @@ _Technical Support Professional in Pennsylvania USA_ <br>
 **Senior Customer Reliability Engineer** @ [Sysdig](https://sysdig.com) __(April 2022 - Present)_ <br>
 Supporting Sysdig SaaS and OnPremise Monitoring Solutions. 
   - Help customers monitor and secure their Kubernetes environments with the power of the Sysdig Agents. 
+  - Help customers configure agent resources and operation mode. 
   - Monitor our SaaS environment uptime and functionality.
   - Assist in the installation and configuration of Agents on a wide varity of K8S environments. 
   - Assist customers with any Agent issues via live troubleshooting sessions. 
   - **_Technologies used:_** Linux, K8S, Helm, Containers.
 <br><br>
+
