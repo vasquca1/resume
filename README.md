@@ -16,7 +16,7 @@ Support expert for VMware cloud computing solutions. Provide support for our sof
   - **_Technologies used:_** Linux, Bosh director, Containers, API
 <br><br>
 
-**Customer Support Enginner** @ [Trilliant](https://trilliant.com) __(June 2017 - February 2008)__ <br>
+**Customer Support Enginner** @ [Trilliant](https://trilliant.com) __(June 2017 - February 2018)__ <br>
 Technical support resource for Trilliant (AMI) Advanced Metering Infrastructure solution. Monitor and debug applications, and database servers. Supported Windows and Linux infrastructure. Helped customers maintain high availability of field deployments. This position required strong technical, analytical and customer service skills to promptly address questions or issues. Tracked customer issues from creation to closure via the ticketing system. Analyzed system logs and documented problems. Assisted customers with the installation of AMI equipment in the field. Provided guidance to customers to improve overall system performance. Supported sales team with product demonstrations. Developed strong knowledge of java web applications and SQL. Developed internal support knowledge documenting solutions. 
   - **_Technologies used:_** Linux, Windows Server, MySQL, Applications
 <br><br>
