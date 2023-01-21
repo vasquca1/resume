@@ -6,7 +6,7 @@ _Technical Support Professional in Pennsylvania USA_ <br>
 
 ## Engineering Experience 
 
-**Senior Customer Reliability Engineer** @ [Sysdig](https://sysdig.com) __(April 2022 - Present)__ <br>
+**Senior Customer Reliability Engineer** @ [Sysdig](https://sysdig.com) __(April 2022 - December 2022)__ <br>
 Help customers monitor and secure their Kubernetes architecture via the Sysdig agents. The agents tap into the K8s API and open a world of metrics. The agent actively scans for platform vulnerabilities.  Customers use a wide variety of K8s architecture solutions which I gained hands-on experience with. I am also responsible for monitoring the availability of our SaaS backend environments which the agents interact with. This requires network troubleshooting and interpretting logs. I assist with initial deployment and post-sales support with all the technical functionality of our tools. Furthermore, I help to document bugs via our bug tracking tools and interact with Engineering to ensure these issues are resolved. Improve our knowledge base documents. The role requires wearing many hats and being patient with our customers.
   - **_Technologies used:_** Linux, K8S, Helm, Containers, PromQL, API
 <br><br>
